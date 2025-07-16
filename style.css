@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    color: green;
+}
+
+.title {
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.title,
+.recipe-img,
+.description,
+h4 {
+    width: 600px;
+}
+
+h2 {
+    width: fit-content;
+    padding: 5px;
+    text-align: left;
+    background-color: lightgreen;
+    color: white;
+}
+
+li {
+    font-size: 16px;
+    width: fit-content; 
+    margin: 2px;
+    padding: 2px;
+    width: 500px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.description {
+    font-size: 16px;
+    padding: 2px;
+}
+
+p a {
+    color: green;
+}
